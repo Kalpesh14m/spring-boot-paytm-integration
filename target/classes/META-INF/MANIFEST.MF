@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-payment-paytm
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kalpesh
+Implementation-Vendor-Id: com.bunny
+Build-Jdk: 1.8.0_252
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-payment-paytm
+Created-By: Maven Integration for Eclipse
+
